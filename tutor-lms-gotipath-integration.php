@@ -2,7 +2,7 @@
 
 /**
  * Plugin Name: Tutor LMS Gotipath Integration
- * Plugin URI: https://gotipath.com
+ * Plugin URI: https://github.com/GotipathTeam/tutor-lms-gotipath-integration
  * Description: Tutor LMS Gotipath integration allows you to host your lesson videos on Tutor LMS using Gotipath Stream. Use this integration to load up and play your meticulously crafted course videos to enhance the experience for students.
  * Author: Gotipath
  * Version: 1.0.0
