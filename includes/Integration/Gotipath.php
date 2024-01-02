@@ -110,12 +110,12 @@ class Gotipath {
 		</div>
 		<script>
 			// Don't show input field if video source is not gotipath net.
-			var gotipathNet = document.querySelector('.video_source_wrap_gotipath');
+			var gotipath = document.querySelector('.video_source_wrap_gotipath');
 			var videoSource = document.querySelector('.tutor_lesson_video_source.no-tutor-dropdown');
 			var icon = document.querySelector('i[data-for=gotipath]');
 			if (videoSource) {
 				if (videoSource.value != 'gotipath') {
-					gotipathNet.style = 'display:none;'
+					gotipath.style = 'display:none;'
 				}
 				
 				if (videoSource.value == 'gotipath') {
